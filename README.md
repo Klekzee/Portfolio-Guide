@@ -6,10 +6,10 @@ Welcome to my portfolio where I document a summary of my projects.
 
 # 📄 Table of Contents
 
-* [Data Analysis](#📖-Data-Analysis)
-* SQL
-* Python
-* Tableau
+* [Data Analysis](#-data-analysis)
+* [SQL](#-sql)
+* [Python](#-python)
+* [Tableau](#-tableau)
 
 <br>
 
@@ -34,6 +34,8 @@ Welcome to my portfolio where I document a summary of my projects.
 
 * TSF EDA TASK 3
 * TSF EDA TASK 7
+
+<br>
 
 # 📈 Tableau
 

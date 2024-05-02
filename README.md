@@ -33,8 +33,10 @@ Welcome to my portfolio where I document a summary of my projects.
 
 # 🖥️ Python
 
-* TSF EDA TASK 3
-* TSF EDA TASK 7
+| Project | Skills | Project Description |
+|---|---|---|
+| [SuperStore Analysis](https://github.com/Klekzee/TSF-GRIP/blob/main/Task%203/Retail_EDA.ipynb) | Data Analysis | An exploratory data analysis of superstore data to identify strong and weak areas. The goal is to provide high-level business recommendations to improve sales and profit based on the findings. |
+| [Stock Market Price Forecasting](https://github.com/Klekzee/TSF-GRIP/blob/main/Task%207/01_PSEI_Analysis.ipynb) | Sentimental Analysis, Machine Learning | Sentiment analysis using VADER tool of 10 years worth of Philippine news headline scraped from Manila Times and correlated its sentiment score to the Philippine Stock Exchange index price. Additionally, the closing price was predicted and forecasted using ARIMA model with 99% accuracy. |
 
 <br>
 

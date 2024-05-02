@@ -8,7 +8,7 @@ Welcome to my portfolio where I document a summary of my projects.
 
 * [Data Analysis](#-data-analysis)
 * [SQL](#-sql)
-* [Python](#-python)
+* [Python](#%EF%B8%8F-python)
 * [Tableau](#-tableau)
 
 <br>

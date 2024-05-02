@@ -40,6 +40,8 @@ Welcome to my portfolio where I document a summary of my projects.
 
 <br>
 
-# 📈 Tableau
+# 📈 Data Visualization
 
-* SUPERSTORE EDA
+| Project | Tools Used | Project Description |
+|---|---|---|
+| [SuperStore Visualization](https://public.tableau.com/views/Task3EDA/Viz?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) | Tableau | I developed an interactive and dynamic dashboard showcasing the insights from the SuperStore Exploratory Data Analysis. |

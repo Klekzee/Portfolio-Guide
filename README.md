@@ -19,6 +19,7 @@ Welcome to my portfolio where I document a summary of my projects.
 |---|---|---|
 | [Bellabeat Case Study](https://github.com/Klekzee/Case-Studies/tree/main/01-GoogleCapstone1) | Python | Gathered insights on women's fitness and health habits from the FitBit app to implement into the Bellabeat app's marketing strategy. Discovered trends such as users' daily habits, peak-hour activity intensity, and sleeping patterns. |
 | [Coffee Sales EDA](https://github.com/Klekzee/ExcelProjects) | Excel | I delved into coffee sales data to uncover trends, including identifying the top customers, the leading country in terms of sales, and sales trends over time. I then created an interactive dashboard to visually represent these findings. This project showcases my proficiency in using Excel functions and pivot tables. |
+| [Wordle Tweets EDA]
 
 <br>
 
